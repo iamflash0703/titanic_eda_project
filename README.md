@@ -1,6 +1,6 @@
 # 🚢 Titanic Dataset — Exploratory Data Analysis
 
-Exploratory Data Analysis (EDA) on the Titanic dataset to understand survival patterns based on gender, passenger class, age, and fare. 
+Exploratory Data Analysis (EDA) on the Titanic dataset to understand survival patterns based on gender, passenger class, age, and fare.
 
 ## 📌 Overview
 This project covers the full EDA workflow — data cleaning, summary statistics, and visualization — using Python's Pandas, NumPy, Matplotlib, and Seaborn.
